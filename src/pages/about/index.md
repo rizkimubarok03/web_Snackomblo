@@ -3,17 +3,32 @@ templateKey: 'about-page'
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Tentang Kami
+Selamat datang di Snack Omblo, tempatnya camilan seru yang bikin hari makin asyik! Kami menghadirkan beragam snack dengan rasa autentik yang cocok untuk anak muda dan dewasa. Dari yang gurih, pedas, manis, hingga kriuk-kriuk nagih, semua ada di sini!.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Kenapa Harus Snack Omblo?
+Bahan Berkualitas – Dibuat dari bahan pilihan, fresh setiap hari!
+Rasa Kekinian – Dari pedas nampol sampai gurih lumer, semua ada!
+Harga Terjangkau – Nikmati camilan enak tanpa bikin kantong bolong!
+Dikemas Praktis – Cocok buat ngemil kapan saja & di mana saja!
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Snack Favorit di Snack Omblo
+🔥 Basreng Pedas Level-Om! – Super kriuk dengan sensasi pedas yang bikin nagih!
+🧀 Cimol Mozzarella – Renyah di luar, lumer di dalam!
+🌶 Keripik Kaca Pedas Gila – Tipis, renyah, pedasnya bikin nagih!
+🍫 Pisang Nugget Coklat Lumer – Manisnya pas, toppingnya melimpah!
+🍟 Makaroni Meledak – Kriuk pedas dengan berbagai varian rasa!
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Varian Rasa 
+Selamat datang di Snack Omblo, tempatnya camilan lezat yang bikin hari-harimu makin seru! 🤩 Kami hadir dengan berbagai pilihan snack gurih, manis, dan pedas yang cocok untuk semua kalangan, dari anak muda hingga dewasa.
+Dengan konsep "Harga Kaki Lima, Rasa Boleh Dicoba!", kami menghadirkan snack berkualitas dengan rasa autentik, bumbu melimpah, dan tekstur renyah yang bikin ketagihan!
+
+
+### Pesan Sekarang!
+📍 Lokasi: Kp.Gunung Sari RT 03/03 Islamice Villange
+📞 Kontak: 089652512837
+📲 Order Online:
+
+Yuk, cobain Snack Omblo sekarang juga! Dijamin sekali coba, pasti nagih! 😋🔥
+

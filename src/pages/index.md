@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Snack Omblo Harga kaki Lima Rasa Boleh di Coba
-image: /img/logo1.png
+title:
+image: /img/bagroundsnack.png
 heading: Tentang Kami
 subheading: Harga Kaki Lima Rasa Boleh di Coba
 mainpitch:
@@ -10,6 +10,8 @@ mainpitch:
     Selamat datang di Snack Omblo, tempat camilan lezat dengan harga terjangkau! Kami menawarkan berbagai pilihan snack gurih dan manis yang cocok untuk menemani waktu santai Anda.
 description: >-
   Selamat datang di Snack Omblo, tempatnya camilan seru yang bikin hari makin asyik! Kami menghadirkan beragam snack dengan rasa autentik yang cocok untuk anak muda dan dewasa. Dari yang gurih, pedas, manis, hingga kriuk-kriuk nagih, semua ada di sini!.
+subdescription: 
+    test
 intro:
   blurbs:
     - image: /img/snack2.png

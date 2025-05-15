@@ -1,43 +1,51 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: 
+image: /img/bagroundsnack.png
+heading: Harga Kaki Lima Rasa Boleh di Coba
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Nikmati beragam camilan kekinian dari Snack Omblo yang siap nemenin waktu santai, nongkrong, nonton film, atau kerja! Semua dibuat dari bahan berkualitas, dengan rasa yang juara dan harga yang bersahabat!.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/snack.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Basreng Snack Omblo
+        Camilan favorit sejuta umat! Kriuk, gurih, dan pedasnya bisa disesuaikan selera.
+        Varian Rasa:1.Pedas Level-Om! 🔥, 2.Bawang Gurih, 3.Keju dan 4.Original
+
+
+    - image: /img/makroni.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        🍝 Makaroni Snack Omblo
+        Makaroni kriuk dengan bumbu spesial yang meresap. Cocok buat pecinta pedas & gurih!
+        Varian Rasa:
+        1.Pedas Gila
+        2.Keju
+        3.BBQ Smoky
+        4.Balado Mantul
+        5.Original
+
+    - image: /img/lidi.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Lidi-Lidian Snack Omblo Camilan legend yang tetap hits sampai sekarang! Teksturnya renyah, rasanya nampol!
+        Varian Rasa:
+        1.Pedas Nampol
+        2.Keju
+        3.Balado
+        4.Bawang
+        5.Original
+
+    - image: /img/kripikkaca.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+       
+       Keripik Kaca Snack Omblo
+       Super tipis, super kriuk, dan pedasnya nendang! Camilan viral yang wajib dicoba.
+       Varian Rasa:
+       1.Pedas Gila
+       2.Balado Manis Pedas
+       3.Bawang Gurih
+       4.Original
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,57 +53,59 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Apa Kata Mereka Tentang Snack Omblo?
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    1.Rasa boleh dicoba, ternyata beneran enak semua! Ini pertama kali coba basreng level pedas-om, dan fix bakal repeat order! — Aulia,Tangerang
+    2.Keripik kacanya renyah banget, bumbunya nempel! Pedasnya bikin nagih, recommended deh buat yang suka ngemil pedas. — Rizky, Jakarta
+    3.Makaroni pedas gilanya juara! Teksturnya kriuk, rasa bumbunya mantap, cocok banget buat nemenin nonton drakor. — Putri, Bandung
+    4.Lidi-lidian nostalgia banget, rasanya malah lebih enak dari waktu SD dulu. Pedas gurihnya pas, ga bikin eneg. — Dina, Bekasi
+    5.Harga kaki lima rasa bintang lima beneran deh. Udah beberapa kali order, selalu fresh dan kriuknya awet. — Fadli, Depok
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/snack4.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/roti.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/testimoni.jpg 
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author:
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      Testimoni  1.Rasa boleh dicoba, ternyata beneran enak semua! Ini pertama kali coba basreng level pedas-om, dan fix bakal repeat order! — Ayu,Tangerang.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Keripik kacanya renyah banget, bumbunya nempel! Pedasnya bikin nagih, recommended deh buat yang suka ngemil pedas. — Sabri Tangerang.
+full_image: /img/bagroundsnack.png
 pricing:
-  heading: Monthly subscriptions
+  heading: Snack Omblo
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+     Nikmati beragam camilan kekinian dari Snack Omblo yang siap nemenin waktu santai, nongkrong, nonton film, atau kerja! Semua dibuat dari bahan berkualitas, dengan rasa yang juara dan harga yang bersahabat!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Basreng Camilan favorit sejuta umat! Kriuk, gurih, dan pedasnya bisa disesuaikan selera dan Varian Rasa
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Pedas Level-Om!
+        - Bawang Gurih
+        - Keju dan Gurih
+      plan: Basreng
+      price: '6.000'
+    - description: 'Makaroni kriuk dengan bumbu spesial yang meresap. Cocok buat pecinta pedas & gurih! Varian Rasa:'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Pedas Gila
+        - Keju
+        - BBQ Smoky
+        - Balado Mantul
+        - Original
+      plan: Makroni 
+      price: '6000'
+    - description: 'Lidi-Lidian Snack Omblo Camilan legend yang tetap hits sampai sekarang! Teksturnya renyah, rasanya nampol! Varian Rasa:'
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Pedas Nampol
+        - Keju
+        - Balado
+        - Bawang
+        - Orginal
+      plan: Lidi - lidian
+      price: '6000'
 ---

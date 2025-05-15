@@ -1,33 +1,50 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: 5 Camilan Pedas Kekinian yang Wajib Kamu Coba di Snack Omblo!
+date: 2022-06-22T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/snack4.jpg
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/snack4.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Buat pecinta pedas, rasanya kurang afdol kalau belum cobain snack dari Snack Omblo! Mulai dari basreng sampai keripik kaca, semuanya punya sensasi pedas yang bikin nagih.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+🔥 Basreng Pedas Level-Om!
+Camilan favorit yang kriuknya awet, pedasnya bisa dipilih sesuai level.
 
-## What the updates mean to you
+🔥 Makaroni Pedas Gila
+Kriuk renyah dengan bumbu pedas yang meresap sampai ke dalam makaroni.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+🔥 Keripik Kaca Pedas Nampol
+Super tipis, super pedas, dan pastinya kriuk abis!
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+🔥 Lidi-Lidian Pedas
+Camilan nostalgia yang masih eksis, sekarang lebih kekinian dengan rasa pedas gurih.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+🔥 Cimol Mozzarella Pedas Manis
+Perpaduan cimol kriuk, keju lumer, dan pedas manis yang bikin susah berhenti ngemil.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Cobain sekarang di Snack Omblo, karena harga kaki lima, rasa boleh dicoba!
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Kenapa Snack Omblo Jadi Favorit Anak Muda & Dewasa?
+
+Nggak cuma soal harga, Snack Omblo selalu bikin pelanggan balik lagi karena:
+
+* Varian rasa kekinian — dari pedas nampol sampai manis lumer.
+* Cocok buat semua suasana — bisa buat ngemil santai, nongkrong, nonton, atau oleh-oleh.
+* Dibuat fresh tiap hari — kualitas rasa selalu terjaga.
+* Kemasan praktis — gampang dibawa ke mana aja.
+Nggak heran kalau Snack Omblo selalu jadi pilihan favorit buat anak muda, mahasiswa, sampai orang dewasa.
+
+
+## Tips Ngemil Seru Bareng Snack Omblo
+Biar ngemil makin asyik, coba deh tips ini:
+* Pesan beberapa varian rasa sekaligus, biar bisa mix and match.
+* Sediakan es teh manis atau milkshake buat penetral rasa pedas
+* Ajak teman atau keluarga biar makin rame & seru.
+* Jangan lupa upload di IG story & tag @SnackOmblo!
+Nggak heran kalau Snack Omblo selalu jadi pilihan favorit buat anak muda, mahasiswa, sampai orang dewasa.
