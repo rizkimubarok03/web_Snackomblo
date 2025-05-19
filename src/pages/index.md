@@ -22,7 +22,7 @@ intro:
        Ngemil makin seru dengan Makaroni Snack Omblo! 🤩 Camilan legendaris yang gurih, pedas, dan renyahnya pas, bikin susah berhenti ngemil! Dibuat dari makaroni pilihan, digoreng sampai kriuk sempurna, lalu ditaburi bumbu spesial yang bikin rasanya nendang di lidah!.
     - image: /img/snack3.png
       text: >
-       Siap-siap ketagihan sama Keripik Kaca Snack Omblo! 🤩 Camilan viral yang terkenal dengan teksturnya super tipis, renyah kriuk, dan bumbu pedas yang menggoda. Dibuat dari bahan berkualitas, digoreng hingga transparan seperti kaca, lalu dibumbui dengan rempah spesial yang bikin rasanya makin nagih.
+       Siap-siap ketagihan sama Keripik Kaca Snack Omblo! 🤩 Camilan viral yang terkenal dengan teksturnya super tipis, renyah kriuk, dan bumbu pedas yang menggoda. Dibuat dari bahan berkualitas, digoreng hingga transparan seperti kaca, lalu dibumbui dengan rempah spesial yang bikin rasanya makin nagihh.
     - image: /img/snack1.png
       text: >
         Buat yang suka ngemil, wajib coba Lidi-Lidian Snack Omblo! 🔥 Camilan jadul yang makin kekinian dengan tekstur renyah, bumbu melimpah, dan rasa yang bikin ketagihan! Dijamin nggak cukup satu genggaman! .
