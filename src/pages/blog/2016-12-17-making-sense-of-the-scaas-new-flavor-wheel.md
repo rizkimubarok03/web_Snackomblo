@@ -6,8 +6,15 @@ featuredpost: false
 featuredimage: /img/snack4.jpg
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - 5 camilan pedas kekinian yang wajib kamu coba
+  - cemilan pedas yang mudah dibuat
+  - cemilan pedas yang lagi hits
+  - cemilan kekinian pedas
+  - jajanan pedas kekinian
+  - cemilan pedas kekinian yang mudah dibuat\
+  - aneka cemilan pedas untuk jualan
+  - cemilan pedas buat jualan
+  - camilan kekinian pedas
 ---
 ![flavor wheel](/img/snack4.jpg)
 

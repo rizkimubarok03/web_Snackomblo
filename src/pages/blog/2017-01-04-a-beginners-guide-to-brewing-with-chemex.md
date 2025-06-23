@@ -6,8 +6,11 @@ featuredpost: false
 featuredimage: /img/snack4.jpg
 description: Halo pecinta roti dan camilan enak! Selamat datang di blog resmi Roti Snack OmBlo tempat di mana kehangatan roti dan kelezatan snack berpadu dalam setiap cerita dan gigitan.Di sini, kami tidak hanya berbagi informasi tentang produk-produk kami, tapi juga menyajikan kisah di balik dapur kami — mulai dari proses pembuatan, inspirasi resep, hingga tips memilih camilan yang pas untuk hari-hari spesial Anda.Roti Snack OmBlo berdiri dari kecintaan kami pada makanan rumahan yang autentik dan berkualitas. Semua produk dibuat dengan bahan-bahan pilihan, tanpa pengawet, dan pastinya dengan sepenuh hati. Nantikan juga promo menarik, cerita pelanggan, serta update produk terbaru hanya di blog ini.
 tags:
-  - brewing
-  - chemex
+  - selamat datang di blog roti snack omblo
+  - temenin jajan lagi yuk
+  - jomblo jomblo bagini kita selalu happy
+  - temenin aku jajan yuk
+  - halo sayang temenin aku jajan lagi yuk
 ---
 ![chemex](/img/roti.jpg)
 
