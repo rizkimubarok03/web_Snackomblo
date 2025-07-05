@@ -10,7 +10,8 @@ tags:
   - temenin jajan lagi yuk
   - jomblo jomblo bagini kita selalu happy
   - temenin aku jajan yuk
-  - halo sayang temenin aku jajan lagi yuk
+  - selamat datang di blog saya
+
 ---
 ![chemex](/img/roti.jpg)
 
