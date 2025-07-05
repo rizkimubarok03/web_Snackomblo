@@ -11,6 +11,12 @@ tags:
   - jomblo jomblo bagini kita selalu happy
   - temenin aku jajan yuk
   - selamat datang di blog saya
+  - jomblo jomblo bagini kita selalu happy
+  - harga kaki lima rasa boleh di coba
+  - jualan roti kaki lima
+  - roti jajanan kaki lima
+  - roti 5 ribuan
+
 
 ---
 ![chemex](/img/roti.jpg)
@@ -47,6 +53,6 @@ Snack Omblo nggak cuma bisa kamu beli langsung di outlet, tapi juga bisa pesan v
 ## Yuk, Buktikan Sendiri!
 Buat kamu yang penasaran sama slogan “Harga Kaki Lima, Rasa Boleh Dicoba”, mending langsung cobain sendiri snack-nya. Dijamin sekali coba, bakal ketagihan!
 
-📲 Pesan sekarang via WhatsApp [089652512837] atau cek di [@snackomblo].
+📲 Pesan sekarang via WhatsApp [088187923310] atau cek di [@snackomblo].
 
 Snack Omblo — Camilan Enak, Harga Aman, Rasa Nendang! 😋🔥
