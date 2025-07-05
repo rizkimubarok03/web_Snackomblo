@@ -15,6 +15,11 @@ tags:
   - aneka cemilan pedas untuk jualan
   - cemilan pedas buat jualan
   - camilan kekinian pedas
+  - cemilan pedas kekinian yang mudah dibuat
+  - aneka cemilan pedas untuk jualan
+  - cemilan pedas buat jualan
+  - cemilan enak pedas
+  - cemilan pedas yang gampang dibuat
 ---
 ![flavor wheel](/img/snack4.jpg)
 

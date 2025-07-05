@@ -53,6 +53,6 @@ Snack Omblo nggak cuma bisa kamu beli langsung di outlet, tapi juga bisa pesan v
 ## Yuk, Buktikan Sendiri!
 Buat kamu yang penasaran sama slogan “Harga Kaki Lima, Rasa Boleh Dicoba”, mending langsung cobain sendiri snack-nya. Dijamin sekali coba, bakal ketagihan!
 
-📲 Pesan sekarang via WhatsApp [088187923310] atau cek di [@snackomblo].
+📲 Pesan sekarang via WhatsApp [081287923310] atau cek di [@snackomblo].
 
 Snack Omblo — Camilan Enak, Harga Aman, Rasa Nendang! 😋🔥
